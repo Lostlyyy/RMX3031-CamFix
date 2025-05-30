@@ -1,7 +1,6 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.7
-versionCode=19
-author=Zackptg5
+id=cm_fix
+name=Camera HALs patch for Realme X7 Max (cupida)
+version=v0.1-alpha
+versionCode=001
+author=lostlyy
 description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
