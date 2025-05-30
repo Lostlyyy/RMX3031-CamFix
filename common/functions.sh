@@ -148,7 +148,7 @@ mount_mirrors() {
 
 # Credits
 ui_print "**************************************"
-ui_print "*   MMT Extended by Zackptg5 @ XDA   *"
+ui_print "*  Camera Quality Fix for Realme X7 Max/GT Neo   *"
 ui_print "**************************************"
 ui_print " "
 
